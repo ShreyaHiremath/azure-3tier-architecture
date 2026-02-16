@@ -44,10 +44,7 @@ This project demonstrates real-world Azure networking, security design, and trou
 
 ---
 
-## Architecture Overview
-
-
----
+## Architecture Over
 
 ## Network Security Configuration
 
