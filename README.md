@@ -40,3 +40,40 @@ Internet → Web Tier → App Tier → Database Tier
 ## Learning Outcome
 
 This project demonstrates real-world Azure networking, security design, and troubleshooting skills required for Cloud Engineer roles.
+
+
+---
+
+## Architecture Overview
+
+![Resources](screenshots/all-resources.png)
+
+---
+
+## Network Security Configuration
+
+![NSG Rules](screenshots/nsg-rules-db.png)
+
+---
+
+## VNet Peering (Multi-Region Connectivity)
+
+![Peering](screenshots/vnet-peerings.png)
+
+---
+
+## Connectivity Validation
+
+### App → DB (Allowed)
+
+![App to DB](screenshots/app-to-db.png)
+
+### Web → DB (Blocked)
+
+![Web to DB](screenshots/web-to-db.png)
+
+---
+
+## Infrastructure as Code (ARM Template Export)
+
+![ARM Template](screenshots/AzureExportedTemplate.png)
