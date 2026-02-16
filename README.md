@@ -46,7 +46,6 @@ This project demonstrates real-world Azure networking, security design, and trou
 
 ## Architecture Overview
 
-![Resources](screenshots/all-resources.png)
 
 ---
 
